@@ -1,4 +1,4 @@
-*Program used to estimate p-values for Bayesian statistics
+*Program used to estimate p-values for Bayesian statistics;
 options ls=80;
 proc iml;
 
